@@ -1,16 +1,17 @@
-"name": "bower-music",
-  "description": "",
-  "main": "",
+{
+  "name": "hoang-md-client",
+  "version": "1.0.1",
   "authors": [
     "manh2911 <manhhoang291196@gmail.com>"
   ],
+  "description": "Bower",
+  "main": "/",
+  "keywords": [
+    "1"
+  ],
   "license": "MIT",
   "homepage": "https://github.com/manh2911/bower-music.git",
-  "private": true,
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
+    "README.md"
   ]
+}
