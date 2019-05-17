@@ -1,0 +1,16 @@
+"name": "bower-music",
+  "description": "",
+  "main": "",
+  "authors": [
+    "manh2911 <manhhoang291196@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/manh2911/bower-music.git",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
