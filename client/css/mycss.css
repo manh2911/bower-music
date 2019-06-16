@@ -21,4 +21,6 @@
 	display: inline-block;
     margin-left: 10px;
 }
+.frm_edit_comment{
+	display: none;
 }
