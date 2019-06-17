@@ -24,9 +24,6 @@
 .frm_edit_comment{
 	display: none;
 }
-.submit-edit{
-	color: white;
-}
-.cancel-edit{
+.bg-black a {
 	color: white;
 }
